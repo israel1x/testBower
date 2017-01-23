@@ -1,0 +1,21 @@
+{
+  "name": "testBower",
+  "description": "pruebas con bower",
+  "main": "",
+  "authors": [
+    "Israel Zurita"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
